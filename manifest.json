@@ -1,0 +1,53 @@
+{
+  "name": "Text Converts",
+  "short_name": "TextConverts",
+  "theme_color": "#0000ff",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "description" : "Best Text Convert Tool Text Convert , Lower Text Convert , Upper Text Convert , Capitalized Text Convert , Alternating Text Convert , Title Text Convert, Inverse Text Convert , Binary Code Convert , Italic Text Convert , Bold Text Convert",
+  "icons": [
+    {
+      "src": "img/apple-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "img/apple-icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "img/apple-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "img/apple-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "img/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
